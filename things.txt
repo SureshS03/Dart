@@ -1,5 +1,5 @@
 day 1 :
     learing dart
-	Done data type and in and out function
+	Done data type , list and in and out function
 
     
