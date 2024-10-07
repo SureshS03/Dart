@@ -1,0 +1,33 @@
+//Hi , this is dart 
+
+/*
+this is multi line comment
+*/
+
+/// this is documentation comment
+
+type of varibale:
+
+Static Variable = normal
+Dynamic Variable =  it can be change the data type
+Final or const = final can only be set once and it is initialized when accessed and it can be delacre without datatype and with datatype
+                 count is must be known before the program runs 
+
+var can have underscore(_) and the dollar($) sign
+
+various types of operators in Dart:
+
+Arithmetic Operators
+Relational Operators
+Type Test Operators
+Bitwise Operators
+Assignment Operators
+Logical Operators
+Conditional Operators
+Cascade Notation Operators
+
+print()
+
+'dart:io'
+stdin.readLineSync()! for take input and stdin means strandard input
+stdout.write() for print output
