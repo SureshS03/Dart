@@ -1,5 +1,9 @@
 day 1 :
     learing dart
 	Done data type , list and in and out function
-
+day 2 :
+    learing all 6 cons
+    done in all 6 with good understanding and explames
+day 3:
+    
     
