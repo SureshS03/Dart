@@ -1,4 +1,4 @@
-// defualt constructor or parameterized constructor
+// Parameterized constructor
 
 class student {
   String? name; //without ? -> null safety error will occur
